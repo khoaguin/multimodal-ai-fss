@@ -1,0 +1,18 @@
+# --------- pytorch lightning --------- #
+pytorch-lightning==1.7.7
+
+# --------- hydra --------- #
+hydra-core==1.2.0
+hydra-colorlog==1.2.0
+hydra-optuna-sweeper==1.2.0
+
+# --------- pysyft --------- #
+hagrid==0.2.108
+syft==0.7.0b54
+
+# --------- logger --------- #
+wandb
+
+# --------- others --------- #
+ipykernel   # to run jupyter notebooks
+rich        # beautiful text formatting in terminal
